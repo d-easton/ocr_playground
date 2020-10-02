@@ -5,3 +5,10 @@ OCR with tessaract engine
 
 ### Reseources & Documentation:
 [Tessdocs](https://github.com/tesseract-ocr/tessdoc)
+
+### Setup
+Install tesseract via CLI
+- sudo apt install tesseract-ocr
+- sudo apt install libtesseract-dev
+Install python wrapper via pip
+- pip3 install pytesseract
