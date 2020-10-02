@@ -10,5 +10,6 @@ OCR with tessaract engine
 Install tesseract via CLI
 - `sudo apt install tesseract-ocr`
 - `sudo apt install libtesseract-dev`
+
 Install python wrapper via pip
 - `pip3 install pytesseract`
