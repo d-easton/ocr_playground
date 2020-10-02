@@ -13,3 +13,6 @@ Install tesseract via CLI
 
 Install python wrapper via pip
 - `pip3 install pytesseract`
+
+Using ImageMagick for .pdf to .jpg conversion
+- sudo apt install imagemagick
